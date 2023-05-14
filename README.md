@@ -1,4 +1,4 @@
-# Ingenium | Tech Fest | IIT Indore
+#Ingenium | Tech Fest | IIT Indore
 ## Frontend of the website
 
 
