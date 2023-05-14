@@ -8,7 +8,7 @@
 - *Vite* as a frontend development environment which provides a faster server start optimized building process
 - *TailwindCSS* for styling
 - *Framer motion*
-- Other react libraries
+- Other react libraries like *react-three*, *react-icons*, *react-vertical-timeline-component*, *react-dom* etc
 
 ### To run this site
 
