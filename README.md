@@ -3,11 +3,11 @@
 
 
 ### Tech stack used
-- ReactJs
-- ThreeJs for animations and canvases
-- Vite as a frontend development environment which provides a faster server start optimized building process
-- Tailwind for styling
-- Framer motion
+- *ReactJs*
+- *ThreeJs* for animations and canvases
+- *Vite* as a frontend development environment which provides a faster server start optimized building process
+- *TailwindCSS* for styling
+- *Framer motion*
 - Other react libraries
 
 ### To run this site
